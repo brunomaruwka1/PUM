@@ -6,13 +6,12 @@
     tools:context=".FourthFragment">
 
 
-    <ImageButton
+    <Button
         android:id="@+id/btnBack3"
         android:layout_width="48dp"
         android:layout_height="48dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:background="@null"
         android:text="Wyloguj"
         android:contentDescription="Powrót do menu głównego" />
 
